@@ -23,6 +23,7 @@ public class App {
 
     public void lanzarAplicacion() {
         
+        System.out.println("Proyecto de pruebas de Netbeans sobre GitHub");
     }
     
 }
